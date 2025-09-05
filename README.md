@@ -92,7 +92,7 @@ This project requires the following to be installed on your system:
 sudo apt install git-lfs
 
 # Clone the repository
-git clone [https://huggingface.co/puco21/HongikAI](https://huggingface.co/puco21/HongikAI)
+git clone [https://huggingface.co/1919bny-ai/HongikAI](https://huggingface.co/puco21/HongikAI)
 cd HongikAI
 
 # Download the large font files tracked by LFS
