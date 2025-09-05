@@ -92,7 +92,7 @@ This project requires the following to be installed on your system:
 sudo apt install git-lfs
 
 # Clone the repository
-git clone [https://github.com/1919bny-ai/hongik-katrain/HongikAI](https://github.com/1919bny-ai/hongik-katrain/HongikAI)
+git clone [https://github.com/1919bny-ai/hongik-katrain](https://github.com/1919bny-ai/hongik-katrain)
 cd HongikAI
 
 # Download the large font files tracked by LFS
