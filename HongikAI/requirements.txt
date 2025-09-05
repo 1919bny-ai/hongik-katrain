@@ -1,0 +1,24 @@
+# Hongik AI Project - requirements.txt
+#
+# How to install (for CUDA users):
+# pip install -r requirements.txt
+#
+# If you don't have CUDA installed, please modify the tensorflow line to:
+# tensorflow==2.19.0
+
+# --- Core AI & Machine Learning ---
+# For GPU acceleration with CUDA
+tensorflow[and-cuda]==2.19.1
+
+# --- GUI Framework ---
+kivy==2.3.1
+kivymd==0.104.1
+pygame==2.6.1
+
+# --- Hugging Face Hub Integration ---
+huggingface-hub==0.34.4
+
+# --- Utilities ---
+appdirs==1.4.4
+chardet==5.2.0
+playsound==1.3.0
